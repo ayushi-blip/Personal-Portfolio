@@ -599,11 +599,11 @@ footer .copyright{
     margin-top: 1.1rem;
 }
 
-@media (max-width:1001px){
+/* @media (max-width:1001px){
     header #main-nav{
         display: none;
     }
-}
+} */
 
 .site-main-wrapper{
     position: relative;
